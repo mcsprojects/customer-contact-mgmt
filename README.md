@@ -1,8 +1,6 @@
 
-CustomerContactManagement-Simple CRM:
-=====================================
-Spring 4+Spring Security 4+Hibernate 4+PostgreSQL+JasperReports+ Maven Integration Example
-==========================================================================================
+# CustomerContactManagement - Simple CRM
+* Spring 4+Spring Security 4+Hibernate 4+PostgreSQL+JasperReports+ Maven Integration Example
 
 #### Implementation Stack:
 
