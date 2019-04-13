@@ -22,11 +22,10 @@
   <section class="split">   
       <div class="col-lg-6 col-sm-12 left">
       <div class="title-app">
-		  <h1>CustomerContact<span>Management</span></h1>
-          <h2>Simple CRM</h2>
+		  <h1>CustomerContact<span>Management</span></h1>          
       </div>            
 	     <img class="centered" src="<c:url value='static/images/photo01.png'/>"/> 
-	     <p id="custom">Spring 4 + Spring Security 4 + Hibernate 4 +  PostgreSQL + JasperReports +  Maven Integration Example </p> 	          
+	     <p id="custom">Spring 4 + Spring Security 4 + Hibernate 4 +  PostgreSQL + JasperReports +  Maven Integration Example </p>	    	          
       </div>
           
       <div class="col-lg-6 col-sm-12 right">

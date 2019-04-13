@@ -19,9 +19,7 @@
 	  
 	   <div class="center">
 	   <div class="col-sm-8 col-sm-offset-2 text">
-		              <h1><strong>CustomerContact<span>Management</span></strong></h1>              
-       <div class="description"> <h2><strong>Simple CRM</strong></h2></div>                                         
-       
+		              <h1 class="userpage"><strong>CustomerContact<span>Management</span></strong></h1>      
        </div>
        </div>
 		          	

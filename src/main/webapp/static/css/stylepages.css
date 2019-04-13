@@ -7,13 +7,16 @@ body, #mainWrapper {
 	background-color: #ddd;
 }
 
-body, #mainWrapper, .form-control{
-    
+body, #mainWrapper, .form-control{    
 	font-size:12px!important;
 		    
 }
+.userpage{ 
+	margin-top: 35px;
+}
 h1 span, #mainWrapper {
-	color: #5379fa !important;	
+	color: #5379fa !important;
+	font-weight:400;	
 }
 h2 span, #mainWrapper {
 	color: #5379fa !important;	
@@ -36,6 +39,19 @@ body, #mainWrapper, .description h2 { font-family: 'Roboto', sans-serif; font-si
 }
 
 .page-container {
+    margin-top: 130px;   
+    background-color: floralwhite;
+    width: 60%;
+    left: 20%;
+    position: absolute;
+    border-left-style: solid;
+    border-left-color:  #5379fa !important;
+    border-left-width: 10px;
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.4);
+        
+}
+
+.page-container-2 {
     margin-top: 145px;   
     background-color: floralwhite;
     width: 60%;

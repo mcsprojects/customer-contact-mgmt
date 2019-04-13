@@ -25,7 +25,7 @@ User Management Page</strong></h2></div>
        </div>
 		          	
 		<div id="mainWrapper">
-			<div class="page-container">
+			<div class="page-container-2">
 				<div class="page-card">
 					<h3>Manage the list of users who have access to the app.</h3>
                     <p>The ‘User Management‘ page allows you to list the existing users,
