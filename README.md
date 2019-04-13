@@ -4,7 +4,7 @@
 
 #### Implementation Stack:
 
-* Spring  4.3.4
+* Spring  4.3.18
 * Spring Security 4.2.0
 * Hibernate 4.3.6.Final
 * JasperReports 6.5.1
