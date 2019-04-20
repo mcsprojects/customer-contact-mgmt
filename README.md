@@ -1,7 +1,8 @@
 
 # Customer Contact Management
 * Spring 4+Spring Security 4+Hibernate 4+PostgreSQL+JasperReports+ Maven Integration Example
-![Test Image 1](https://github.com/mcsprojects/customer-contact-mgmt/screenshots/Login.png)
+
+![Test Image 1](/screenshots/Login.png)
 
 #### Implementation Stack:
 
